@@ -1,6 +1,6 @@
 # Flight-Fair-Prediction-Analysis
 Welcome to the Flight Fare Prediction Analysis repository! This project aims to provide an accurate prediction of flight fares based on historical data and various influencing factors. By leveraging machine learning algorithms and data analysis techniques, this project helps users estimate flight ticket prices more effectively.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Table of Contents
 Introduction
 Features
@@ -15,17 +15,16 @@ Evaluation
 Contributing
 License
 Acknowledgements
+
+
 Introduction
 Predicting flight fares accurately is a challenging task due to the many variables that impact pricing. The Flight Fare Prediction Analysis project uses historical flight fare data and machine learning techniques to provide users with a reliable estimation of flight ticket prices for their desired travel plans.
 
 Features
 Data-Driven Predictions: Utilizes historical flight fare data to generate well-informed fare predictions.
-User-Friendly Interface: Offers an intuitive interface for inputting travel details and obtaining fare estimates.
 Multiple Algorithms: Evaluates various machine learning algorithms to identify the most effective prediction model.
-Interactive Visualization: Presents trends and insights through interactive data visualizations.
 Parameter Customization: Allows users to tweak model parameters for personalized predictions.
-Getting Started
-Follow these steps to set up and run the Flight Fare Prediction Analysis project on your local machine.
+
 
 Prerequisites
 Python 3.6+
@@ -43,12 +42,6 @@ bash
 Copy code
 cd flight-fare-prediction
 Install the required dependencies.
-
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Open the Jupyter Notebook file flight_fare_prediction.ipynb to access the prediction analysis.
 
 Follow the instructions within the notebook to input travel details and receive accurate fare predictions.
 
