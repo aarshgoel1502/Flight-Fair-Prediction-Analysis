@@ -4,16 +4,12 @@ Welcome to the Flight Fare Prediction Analysis repository! This project aims to 
 Table of Contents
 Introduction
 Features
-Getting Started
 Prerequisites
-Installation
-Usage
 Data Collection
 Data Preprocessing
 Model Selection
 Evaluation
 Contributing
-License
 Acknowledgements
 
 
@@ -62,11 +58,11 @@ Contributions are welcome! If you encounter issues or have ideas for enhancement
 
 
 Acknowledgments
-The project benefits from machine learning libraries like scikit-learn and XGBoost.
+The project benefits from machine learning libraries like scikit-learn and Keras.
 Special thanks to the open-source community for providing valuable datasets and tools.
 Explore, analyze, and predict flight fares with the Flight Fare Prediction Analysis project. Gain insights into pricing trends and make informed travel decisions! If you have questions or require assistance, don't hesitate to open an issue or contact the project maintainer.
 
-LinkedIn - Connect with the project maintainer.
+
 
 
 
