@@ -52,7 +52,7 @@ Data Preprocessing
 The collected data undergoes preprocessing to handle missing values, clean noisy data, and convert categorical features into numerical representations suitable for machine learning algorithms.
 
 Model Selection
-Several machine learning algorithms, such as Random Forest, Gradient Boosting, and Support Vector Regression, are evaluated to determine the optimal model for predicting flight fares.
+Several deep learning algorithms such as LSTM are evaluated to determine the optimal model for predicting flight fares.
 
 Evaluation
 The performance of the prediction models is evaluated using relevant metrics such as mean absolute error and root mean squared error to ensure accurate and reliable predictions.
@@ -60,10 +60,8 @@ The performance of the prediction models is evaluated using relevant metrics suc
 Contributing
 Contributions are welcome! If you encounter issues or have ideas for enhancements, please submit a pull request. Kindly adhere to the code of conduct and contribution guidelines.
 
-License
-This project is licensed under the MIT License.
 
-Acknowledgements
+Acknowledgments
 The project benefits from machine learning libraries like scikit-learn and XGBoost.
 Special thanks to the open-source community for providing valuable datasets and tools.
 Explore, analyze, and predict flight fares with the Flight Fare Prediction Analysis project. Gain insights into pricing trends and make informed travel decisions! If you have questions or require assistance, don't hesitate to open an issue or contact the project maintainer.
